@@ -1,6 +1,3 @@
-Claro, aqui está o texto com as marcações Markdown mantidas:
-
-```markdown
 # Hello, World!
 Hello! 👋
 
@@ -90,4 +87,3 @@ I loaded the data into permanent tables in the BikeStore database to facilitate 
 ## Thank you for visiting!
 
 Thank you for checking out my portfolio. If you need more information or want to discuss any project, feel free to reach out.
-```

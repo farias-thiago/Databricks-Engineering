@@ -1,7 +1,7 @@
 # Hello, World!
 Hello! 👋
 
-I am Thiago Farias ([LinkedIn Profile](https://www.linkedin.com/in/fariasthiago/)), and this is a practical exercise in Data Engineering, using Databricks. Here's a detailed guide on the project and its functionalities.
+I am Thiago Farias ([LinkedIn Profile](https://www.linkedin.com/in/fariasthiago/?locale=en_US)), and this is a practical exercise in Data Engineering, using Databricks. Here's a detailed guide on the project and its functionalities.
 
 ## Dataset
 For this project, I chose the [Bike Store Relational Database](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database). The Entity-Relationship (ER) diagram provided can be seen below:
